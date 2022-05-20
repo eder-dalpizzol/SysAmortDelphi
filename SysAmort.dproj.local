@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/19 20:41:09.000.144,C:\Users\delphi\Desktop\SysAmort\SysAmort.dproj=C:\Users\delphi\Desktop\MDIAPP.dproj</Transaction>
+    <Transaction>2022/05/19 20:41:27.000.709,C:\Users\delphi\Desktop\SysAmort\UMain.pas=C:\Users\delphi\Desktop\Main.pas</Transaction>
+    <Transaction>2022/05/19 20:41:27.000.709,C:\Users\delphi\Desktop\SysAmort\UMain.dfm=C:\Users\delphi\Desktop\Main.dfm</Transaction>
+    <Transaction>2022/05/19 20:43:14.000.802,C:\Users\delphi\Desktop\SysAmort\UChild.dfm=C:\Users\delphi\Desktop\ChildWin.dfm</Transaction>
+    <Transaction>2022/05/19 20:43:14.000.802,C:\Users\delphi\Desktop\SysAmort\UChild.pas=C:\Users\delphi\Desktop\ChildWin.pas</Transaction>
+    <Transaction>2022/05/19 21:18:39.593,C:\Users\delphi\Desktop\SysAmort\SysAmort.dproj=C:\Users\delphi\Desktop\SysAmort\SysAmort.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
